@@ -1,6 +1,6 @@
 ## BreakoutGame
 
-#Basic breakout game
+Basic breakout game
 
 So far just graphics
 
